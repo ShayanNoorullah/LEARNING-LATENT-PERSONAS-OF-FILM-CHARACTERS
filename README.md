@@ -23,3 +23,5 @@ This step trains a new persona model. The run.sh script has a number of variable
 `gunzip input/movies.data.gz`
 
 `./run.sh $OUTPUT_DIRECTORY $INPUT`   (Takes several hours)
+
+DONE BY SHAYAN NOORULLAH
